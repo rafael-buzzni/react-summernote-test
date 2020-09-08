@@ -12,6 +12,7 @@ import "bootstrap/dist/css/bootstrap.css";
 import "./App.css";
 
 function App() {
+  console.log("prtest");
   return (
     <div className="App">
       <ReactSummernote
